@@ -1,0 +1,5 @@
+# Created at 2024-03-24T02:51:59.135
+Boot Manifest-JAR contains absolute paths in classpath 'E:\Java\xakaton\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
